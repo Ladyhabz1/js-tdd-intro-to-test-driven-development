@@ -9,7 +9,7 @@
 
 In this section, we'll be learning how to write tests and how to follow a
 practice known as **Test-Driven Development** when building applications. We'll
-start by learning the basic workflows for writing tests, and understanding some
+start by learning basic workflows for writing tests, and understanding some
 of the tools we JavaScript developers have at our disposal. Then we'll move onto
 more advanced concepts like testing React components and writing tests that work
 with network requests and APIs.
